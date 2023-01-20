@@ -5,6 +5,7 @@
 .profile-section {
 	display: flex;
 	gap: 50px;
+	background-color: rgb(134, 189, 241);
 }
 
 img.profile {
